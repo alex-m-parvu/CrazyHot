@@ -27,7 +27,7 @@ The matrix includes several zones:
 To use the function, import it and pass your data:
 
 ```python
-from crazy_hot_matrix import plot_crazy_hot_matrix
+from crazyHot import plot_crazy_hot_matrix
 
 hot_vector = [8, 9, 7, 6, 10]
 crazy_vector = [5, 6, 4, 7, 8]
