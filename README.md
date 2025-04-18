@@ -1,5 +1,6 @@
 # Crazy Hot Matrix Plotter
 Everything a young man needs to navigate the dating world. 
+
 Source Material: https://youtu.be/pInk1rV2VEg?feature=shared
 
 This repository contains a Python function to plot the Crazy Hot Matrix, a humorous concept popularized by a viral video. The function allows you to visualize data points on a matrix defined by "Hot" and "Crazy" axes, and it categorizes different zones based on these values.
