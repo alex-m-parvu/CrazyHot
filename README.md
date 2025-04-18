@@ -48,7 +48,7 @@ print("Center is located in:", area)
 Clone the repository and install the necessary dependencies:
 
 ```bash
-git clone https://github.com/yourusername/crazy-hot-matrix.git
+git clone https://github.com/alex-m-parvu/crazy-hot-matrix.git
 cd crazy-hot-matrix
 pip install -r requirements.txt
 ```
